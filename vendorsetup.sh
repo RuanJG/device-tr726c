@@ -1,1 +1,1 @@
-add_lunch_combo sample-eng
+add_lunch_combo tr726c-eng

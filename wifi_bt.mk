@@ -14,10 +14,18 @@
 #           combo_mt66xx,
 #           mt5931_6622,   
 #
-# for realtek wifi, bt
-# RealTek:
-#           rtl81xx
+# for realtek wifi, bt & rda587x bt
+# RealTek:    
+#         
+#           rtl81xx          only wifi
 #           rtl872x
+#           rtl872xU
+#           rtl81xx_rda587x 
 #
-BOARD_CONNECTIVITY_VENDOR := Broadcom
-BOARD_CONNECTIVITY_MODULE := ap6xxx
+# for Espressif wifi & Beken bt
+# ESP_BK:
+#           esp8089_bk3515
+#           esp8089          only wifi
+#
+BOARD_CONNECTIVITY_VENDOR := RealTek
+BOARD_CONNECTIVITY_MODULE := rtl81xx

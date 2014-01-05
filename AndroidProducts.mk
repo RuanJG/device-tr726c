@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/sample.mk
+	$(LOCAL_DIR)/tr726c.mk
