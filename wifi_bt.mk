@@ -27,5 +27,10 @@
 #           esp8089_bk3515
 #           esp8089          only wifi
 #
-BOARD_CONNECTIVITY_VENDOR := RealTek
-BOARD_CONNECTIVITY_MODULE := rtl81xx
+# for nmi wifi -- austin
+# nmi:
+#           nmc1000
+#	
+BOARD_CONNECTIVITY_VENDOR := nmi
+BOARD_CONNECTIVITY_MODULE := nmc1000
+

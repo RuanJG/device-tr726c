@@ -15,4 +15,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.rk.small_screen = true \
     ro.product.ota.host = www.rockchip.com:2300
 
-TARGET_SYSTEM_PROP := device/rockchip/tr726c/system.prop
+TARGET_SYSTEM_PROP := device/rockchip/$(PRODUCT_NAME)/system.prop
+
+# overlay
+PRODUCT_PACKAGE_OVERLAYS += device/rockchip/$(PRODUCT_NAME)/overlay
