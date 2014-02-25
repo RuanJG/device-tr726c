@@ -46,6 +46,8 @@ ro.kernel.android.checkjni=0
 ro.sf.lcd_density=160
 ro.adb.secure =0
 
+ro.rk.bt_enable=false
+ro.rk.ethernet_enable=true
 
 ##############################
 #add for tchip cusmoter
@@ -56,3 +58,4 @@ ro.tchip.modelnum=tr726C
 ro.tchip.printserver=false
 #remove status bar black background
 ro.tchip.rm_bar_background=true
+ro.tchip.softap=false

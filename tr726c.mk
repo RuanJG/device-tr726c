@@ -19,3 +19,9 @@ TARGET_SYSTEM_PROP := device/rockchip/$(PRODUCT_NAME)/system.prop
 
 # overlay
 PRODUCT_PACKAGE_OVERLAYS += device/rockchip/$(PRODUCT_NAME)/overlay
+
+#facelock
+BUILD_WITH_FACELOCK := true
+
+#pcba
+TARGET_ROCKCHIP_PCBATEST := true
