@@ -52,10 +52,16 @@ ro.rk.ethernet_enable=true
 ##############################
 #add for tchip cusmoter
 ##############################
+#setting
 ro.tchip.screenshot=1
 ro.tchip.buildnum=tr726C_V10
 ro.tchip.modelnum=tr726C
 ro.tchip.printserver=false
+ro.tchip.noupdate=true
 #remove status bar black background
 ro.tchip.rm_bar_background=true
 ro.tchip.softap=false
+#quickSetting
+ro.tchip.qs_nodata=true   
+ro.tchip.qs_noairplane=true
+
