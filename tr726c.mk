@@ -25,3 +25,6 @@ BUILD_WITH_FACELOCK := true
 
 #pcba
 TARGET_ROCKCHIP_PCBATEST := true
+
+#  Tchip hideapk: hideapk.txt
+PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/hideapk.txt:system/usr/data/hideapk.txt

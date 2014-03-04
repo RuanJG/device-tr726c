@@ -64,4 +64,5 @@ ro.tchip.softap=false
 #quickSetting
 ro.tchip.qs_nodata=true   
 ro.tchip.qs_noairplane=true
-
+#hide apk func
+ro.tchip.hideapk=true
