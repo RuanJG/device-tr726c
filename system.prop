@@ -59,7 +59,7 @@ ro.tchip.modelnum=tr726C
 ro.tchip.printserver=false
 ro.tchip.noupdate=true
 #remove status bar black background
-ro.tchip.rm_bar_background=true
+ro.tchip.rm_bar_background=false
 ro.tchip.softap=false
 #quickSetting
 ro.tchip.qs_nodata=true   
