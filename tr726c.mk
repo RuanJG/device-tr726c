@@ -26,11 +26,19 @@ BUILD_WITH_FACELOCK := true
 #pcba
 TARGET_ROCKCHIP_PCBATEST := true
 
+
+
+
+
+###############################################3
+# cusmter tools
+###########################################33##
+
 #  Tchip hideapk: hideapk.txt
-PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/hideapk.txt:system/usr/data/hideapk.txt
+PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/cusmter/hideapk.txt:system/usr/data/hideapk.txt
 
 # launcher ui
-PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/launcher/appwidgets.xml:system/usr/data/appwidgets.xml
-PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/launcher/com.android.launcher3.prefs.xml:system/usr/data/com.android.launcher3.prefs.xml
-PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/launcher/launcher.db:system/usr/data/launcher.db
-PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/launcher/launcher.preferences:system/usr/data/launcher.preferences
+PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/cusmter/launcher/appwidgets.xml:system/usr/data/appwidgets.xml
+PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/cusmter/launcher/com.android.launcher3.prefs.xml:system/usr/data/com.android.launcher3.prefs.xml
+PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/cusmter/launcher/launcher.db:system/usr/data/launcher.db
+PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/cusmter/launcher/launcher.preferences:system/usr/data/launcher.preferences

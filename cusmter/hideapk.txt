@@ -3,6 +3,6 @@
 /system/app/Development.apk
 /system/app/SpeechRecorder.apk 
 /system/app/VideoEditor.apk 
-/system/app/QuickOffice.apk
+#/system/app/QuickOffice.apk
 
 com.google.android.googlequicksearchbox
