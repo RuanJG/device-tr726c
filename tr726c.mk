@@ -35,5 +35,5 @@ TARGET_ROCKCHIP_PCBATEST := true
 ###########################################33##
 
 #  Tchip hideapk: hideapk.txt
-PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/cusmter/hideapk.txt:system/usr/data/hideapk.txt
+#PRODUCT_COPY_FILES += device/rockchip/$(PRODUCT_NAME)/customer/hideapk.txt:system/usr/data/hideapk.txt
 
