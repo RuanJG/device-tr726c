@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<gs version="1">
-<p pkg="com.android.deskclock" cl="com.android.alarmclock.DigitalAppWidgetProvider" />
-<h pkg="com.android.launcher3" id="400" />
-<g id="1" h="0" />
-<g id="2" h="0" />
-<g id="3" h="0" />
-<g id="4" h="0" p="0" min_width="138" min_height="125" max_width="200" max_height="1be" host_category="1" />
-</gs>
