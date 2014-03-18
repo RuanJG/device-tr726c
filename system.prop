@@ -61,7 +61,6 @@ ro.rk.ethernet_enable=true
 #setting
 ro.tchip.screenshot=1
 ro.tchip.buildnum=tr726C_V10
-ro.product.model=tr726C
 ro.tchip.printserver=false
 ro.tchip.noupdate=true
 #remove status bar black background
