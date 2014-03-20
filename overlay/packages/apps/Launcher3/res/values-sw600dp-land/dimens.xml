@@ -15,9 +15,6 @@
 -->
 
 <resources>
-<!-- Workspace -->
-       <dimen name="overview_panel_bottom_padding">10dp</dimen>
-       <dimen name="overview_mode_page_offset">60dp</dimen>
 <!-- Workspace Cell -->
     <integer name="cellCountX">7</integer>
     <integer name="cellCountY">4</integer>
