@@ -2,4 +2,5 @@ UserVolumeLabel=TR726C
 ro.tchip.buildnum=tr726C_V10
 ro.product.model=tr726C
 #del_apk=RkApkinstaller.apk
+del_apk=Mms.apk
 
