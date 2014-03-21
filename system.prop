@@ -69,6 +69,7 @@ ro.tchip.softap=false
 #quickSetting
 ro.tchip.qs_nodata=true   
 ro.tchip.qs_noairplane=true
+ro.tchip.qs_nouser=true
 #hide apk func
 ro.tchip.hideapk=true
 #wifi sleey policy : 0=sleep, 1= if plug wakeup, 2=alway wakeup 
