@@ -21,4 +21,8 @@
 <!-- Workspace Cell -->
     <integer name="cellCountX">7</integer>
     <integer name="cellCountY">4</integer>
+
+<!-- search button -->
+    <integer name="search_button_static_icon">1</integer>
+
 </resources>
