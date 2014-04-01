@@ -78,3 +78,5 @@ ro.tchip.wifi_policy=0
 ro.tchip.rm_timezone=false
 ro.tchip.autotimezone=true
 ro.tchip.rm_gps_location=false
+##location mode,BATTERY_SAVING = 2,HIGH_ACCURACY = 3,OFF = 0 ,SENSORS_ONLY = 1
+#ro.tchip.def_locationmode=2
