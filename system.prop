@@ -74,3 +74,7 @@ ro.tchip.qs_nouser=true
 ro.tchip.hideapk=true
 #wifi sleey policy : 0=sleep, 1= if plug wakeup, 2=alway wakeup 
 ro.tchip.wifi_policy=0
+#time zone
+ro.tchip.rm_timezone=false
+ro.tchip.autotimezone=true
+ro.tchip.rm_gps_location=false
