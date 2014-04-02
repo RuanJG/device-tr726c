@@ -1,9 +1,4 @@
 /system/priv-app/Contacts.apk
-/system/priv-app/PrebuiltGmsCore.apk              
-/system/app/Development.apk
-/system/app/SpeechRecorder.apk 
-/system/app/VideoEditor.apk 
-#/system/app/QuickOffice.apk
 /system/priv-app/Mms.apk
-
-com.google.android.googlequicksearchbox
+#/system/priv-app/PrebuiltGmsCore.apk              
+#com.google.android.googlequicksearchbox
