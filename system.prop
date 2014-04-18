@@ -60,7 +60,6 @@ ro.rk.ethernet_enable=true
 ##############################
 #setting
 ro.tchip.screenshot=1
-ro.tchip.buildnum=tr726C_V10
 ro.tchip.printserver=false
 ro.tchip.noupdate=true
 #remove status bar black background
@@ -80,3 +79,7 @@ ro.tchip.autotimezone=true
 ro.tchip.rm_gps_location=false
 ##location mode,BATTERY_SAVING = 2,HIGH_ACCURACY = 3,OFF = 0 ,SENSORS_ONLY = 1
 #ro.tchip.def_locationmode=2
+#luncher first time rotation
+ro.tchip.first_is_land=true
+#wallpaper center display
+#ro.tchip.fix_wallpaper=false
