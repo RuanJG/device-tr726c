@@ -5,3 +5,4 @@ ro.product.model=tr726C
 #del_apk=QuickOffice.apk
 del_apk=Development.apk
 del_apk=VideoEditor.apk
+del_apk=SpeechRecorder.apk
