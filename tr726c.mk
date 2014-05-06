@@ -26,8 +26,7 @@ BUILD_WITH_FACELOCK := true
 #pcba
 TARGET_ROCKCHIP_PCBATEST := true
 
-#google apk
-BUILD_WITH_GOOGLE_MARKET:=false
+
 
 
 
