@@ -59,7 +59,7 @@ ro.rk.ethernet_enable=true
 #add for tchip cusmoter
 ##############################
 #setting
-ro.tchip.screenshot=1
+ro.tchip.screenshot=0
 ro.tchip.printserver=false
 ro.tchip.noupdate=true
 #remove status bar black background
