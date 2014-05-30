@@ -91,5 +91,6 @@ ro.tchip.first_is_land=true
 #ro.tchip.enabledIME2=
 ###### wifi direct name
 #ro.tchip.wifi_direct=tr726c
-
+###### hide google apk
+ro.googleapps.hide=true
 
