@@ -1,4 +1,4 @@
 /system/priv-app/Contacts.apk
 /system/priv-app/Mms.apk
-#/system/priv-app/PrebuiltGmsCore.apk              
+/system/priv-app/PrebuiltGmsCore.apk
 #com.google.android.googlequicksearchbox
