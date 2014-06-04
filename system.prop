@@ -93,4 +93,5 @@ ro.tchip.first_is_land=true
 #ro.tchip.wifi_direct=tr726c
 ###### hide google apk
 ro.googleapps.hide=true
-
+####### launcher uiconfig tool
+ro.tchip.use_uiconfig=false
