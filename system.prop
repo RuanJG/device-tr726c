@@ -95,3 +95,5 @@ ro.tchip.first_is_land=true
 ro.googleapps.hide=true
 ####### launcher uiconfig tool
 ro.tchip.use_uiconfig=false
+######  serial number read from flash or auto 
+ro.tchip.serialno_auto=true
