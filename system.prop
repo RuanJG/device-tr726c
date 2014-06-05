@@ -97,3 +97,5 @@ ro.googleapps.hide=true
 ro.tchip.use_uiconfig=false
 ######  serial number read from flash or auto 
 ro.tchip.serialno_auto=true
+##### display p2p option
+ro.tchip.show_p2p=true
