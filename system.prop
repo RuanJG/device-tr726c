@@ -64,7 +64,7 @@ ro.tchip.printserver=false
 ro.tchip.noupdate=true
 #remove status bar black background
 ro.tchip.rm_bar_background=false
-ro.tchip.softap=false
+ro.tchip.softap=true
 #quickSetting
 ro.tchip.qs_nodata=true   
 ro.tchip.qs_noairplane=true
