@@ -28,7 +28,8 @@ TARGET_ROCKCHIP_PCBATEST := true
 
 #google apk
 BUILD_WITH_GOOGLE_MARKET := true
-
+# add the Velvet
+PRODUCT_PACKAGES += Velvet
 
 
 ###############################################3
