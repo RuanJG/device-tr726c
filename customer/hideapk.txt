@@ -40,9 +40,20 @@ alias.DialShortcut
 com.google.android.maps.driveabout.app.DestinationActivity
 
 ## google Gmail Widget
+com.google.android.gm/com.google.android.gm.widget.GmailWidgetProvider
+com.google.android.gm/com.google.android.gm.widget.GoogleMailWidgetProvider
+
+## google quick search Widget
+com.google.android.googlequicksearchbox/com.google.android.apps.sidekick.widget.PredictiveCardsWidgetProvider
+com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchWidgetProvider
 
 ## google play Widget
+com.android.vending/com.android.vending.MarketWidgetProvider
+com.android.vending/com.google.android.finsky.widget.recommendation.RecommendedWidgetProvider
+com.android.vending/com.google.android.finsky.widget.consumption.NowPlayingWidgetProvider
 
+## gms can't be DYNAMIC_HIDE_APP, will report location classs err
+com.google.android.gms
 
 ## DYNAMIC_HIDE_APP 动态隐藏APP，快速点击设置机型项10下出现/隐藏
 #+com.google.android.talk
@@ -57,7 +68,6 @@ com.google.android.maps.driveabout.app.DestinationActivity
 #+com.google.android.apps.magazines
 +com.google.android.googlequicksearchbox
 +com.android.vending
-+com.google.android.gms
 +com.google.android.gm
 +com.google.android.apps.maps
 +com.quickoffice.android
