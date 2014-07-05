@@ -1,5 +1,5 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
-include device/rockchip/rk3026/BoardConfig.mk
+include device/rockchip/tr726c/BoardConfig.mk
 $(call inherit-product, device/rockchip/rksdk/device.mk)
 PRODUCT_BRAND := rockchip
 PRODUCT_DEVICE := rk3026
@@ -11,6 +11,7 @@ PRODUCT_COPY_FILES += device/rockchip/common/phone/etc/apns-full-conf.xml:system
 PRODUCT_COPY_FILES += device/rockchip/common/phone/etc/spn-conf.xml:system/etc/spn-conf.xml
 
 PRODUCT_PROPERTY_OVERRIDES += \
+    media.cfg.div3.support = false \
     ro.product.version = 1.0.0 \
     ro.rk.small_screen = true \
     ro.product.ota.host = www.rockchip.com:2300
