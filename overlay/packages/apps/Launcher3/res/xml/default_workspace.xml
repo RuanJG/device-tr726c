@@ -36,7 +36,14 @@
         launcher:y="0"
         launcher:spanX="2"
         launcher:spanY="2" /-->
-
+    <appwidget
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.widget.SettingsAppWidgetProvider"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="2"
+        launcher:spanX="3"
+        launcher:spanY="1" />
 
     <favorite
         launcher:packageName="com.android.camera2"

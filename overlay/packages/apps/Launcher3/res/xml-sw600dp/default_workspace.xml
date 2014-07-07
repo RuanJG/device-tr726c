@@ -18,14 +18,14 @@
     <!-- Far-left screen [0] -->
 
     <!-- Left screen [1] -->
-    <!--appwidget
+    <appwidget
         launcher:packageName="com.android.settings"
         launcher:className="com.android.settings.widget.SettingsAppWidgetProvider"
         launcher:screen="1"
-        launcher:x="0"
-        launcher:y="3"
-        launcher:spanX="4"
-        launcher:spanY="1" /-->
+        launcher:x="1"
+        launcher:y="2"
+        launcher:spanX="3"
+        launcher:spanY="1" />
 
     <!-- Middle screen [2] -->
     <appwidget
